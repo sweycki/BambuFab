@@ -1,1 +1,1 @@
-A pasta documentação reune: Relatórios, Artigos e documentações científicas da pesquisa.
+A pasta documentação reune: Relatórios, Artigos e Documentações Científicas da pesquisa.
