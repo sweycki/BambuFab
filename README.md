@@ -31,7 +31,7 @@ Explore os materias disponíveis
 - [Dados](./dados/)
 - [Documentação](./documentação/)
 - [Experimentos](./experimentações/)
-- [modelos 3d](./modelos3d/)
+- [modelos 3d](./modelos 3d/)
 - [Referências](./referências/)
 - [Resultados](./resultados/)
 ## Softwares e ferramentas necessários
