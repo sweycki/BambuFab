@@ -1,1 +1,1 @@
-Orinetaçoes para participação e envio de contribuições
+Orinetações para participação e envio de contribuições
