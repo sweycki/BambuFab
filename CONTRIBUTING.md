@@ -1,8 +1,7 @@
 # Guia de Contribuição
 
-Agradecemos seu interesse em contribuir com este projeto!
+**Agradecemos seu interesse em contribuir com este projeto!**
 
-Este repositório busca promover o compartilhamento de conhecimentos, materiais e experimentações científicas, incentivando a colaboração entre pesquisadores, estudantes e interessados.
 
 ## 1. Formas de contribuição
 
