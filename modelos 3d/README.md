@@ -1,1 +1,1 @@
-Arquivos das modelagem em formatos STL, OBJ etc.
+Arquivos de modelos tridimencionais em formato: STL, OBJ etc.
