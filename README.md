@@ -26,14 +26,14 @@ O repositório poderá reunir diferentes categorias de recursos:
 - **Documentação:** desenhos, instruções, parâmetros de fabricação e orientações de montagem.
 
 ## Navegação do projeto
-Explore os materias disponíveis
-- [Contribuições](./contribuições/)
+Explore os materias disponíveis:
 - [Dados](./dados/)
 - [Documentação](./documentação/)
 - [Experimentos](./experimentações/)
 - [modelos 3d](./modelos-3d/)
 - [Referências](./referências/)
 - [Resultados](./resultados/)
+  
 ## Softwares e ferramentas necessários
 
 [Preencher com os softwares, versões e dependências necessários para utilizar, editar ou gerar os arquivos do BambuFab.]
