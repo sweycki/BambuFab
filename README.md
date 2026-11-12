@@ -25,6 +25,15 @@ O repositório poderá reunir diferentes categorias de recursos:
 - **Moldes:** arquivos para fabricação de moldes e produção de componentes.
 - **Documentação:** desenhos, instruções, parâmetros de fabricação e orientações de montagem.
 
+## Navegação do projeto
+Explore os materias disponíveis
+- [Contribuições](./contribuições/)
+- [Dados](./dados/)
+- [Documentação](./documentação/)
+- [Experimentos](./experimentações/)
+- [modelos 3d](./modelos3d/)
+- [Referências](./referências/)
+- [Resultados](./resultados/)
 ## Softwares e ferramentas necessários
 
 [Preencher com os softwares, versões e dependências necessários para utilizar, editar ou gerar os arquivos do BambuFab.]
